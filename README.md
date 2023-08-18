@@ -1,7 +1,11 @@
 # ManualTesting_TestCases_For_SIGNUP.SIGNIN.RESETPASSWORD
 
 **I Created these Test Cases According to this User Stories**
+
+
 **1. User Story 1 - sign up:**
+
+
 As a user, I can sign up into the application, so that I could have account.
 Acceptance criteria:
 • user can sign up by entering the following Data:
@@ -16,11 +20,15 @@ Acceptance criteria:
 • User can choose to resend OP again after 30 sec
 
 **2. User Story 2 - sign in:**
+
+
 As a user I can sign in into application so that I could explore the application
 Acceptance criteria:
 • User can login with his email (email format rules applied or phone number or use name and password (phone and password Rules applied)
 
 **3. User Story 3 - reset password:**
+
+
 As a user want to reset my password because I forgot it
 Acceptance criteria:
 • User can reset password using the following steps
