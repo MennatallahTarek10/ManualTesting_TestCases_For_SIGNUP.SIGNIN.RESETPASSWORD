@@ -10,7 +10,7 @@ As a user, I can sign up into the application, so that I could have account.
 Acceptance criteria:
 • user can sign up by entering the following Data:
 • User name(Min=2 and max=25-alphaptic english character only)
-• Email(correct format contains ex:test@gmail.co)
+• Email(correct format contains ex:mohamed@gmail.co)
 • Phone number(accept only numbers-optional )
 • Gender (Drop down menu(male or female))
 • Password(min=6,max=16)
